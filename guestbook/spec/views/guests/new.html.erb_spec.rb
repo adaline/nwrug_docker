@@ -15,7 +15,7 @@ RSpec.describe "guests/new", type: :view do
 
       assert_select "input#guest_name[name=?]", "guest[name]"
 
-      assert_select "input#guest_message[name=?]", "guest[message]"
+      assert_select "textarea#guest_message[name=?]", "guest[message]"
     end
   end
 end
