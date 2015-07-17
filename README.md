@@ -9,7 +9,8 @@ You can also attach to the running container and get into the Rails console like
 Check out [Docker Cheat Sheet](https://github.com/wsargent/docker-cheat-sheet) for some snappy
 reference to using Docker.
 
-Val  
-[@webmadespecial](https://twitter.com/webmadespecial)
+If you have any questions/feedback please give me a shout: [@webmadespecial](https://twitter.com/webmadespecial)
 
 ---
+
+Val
